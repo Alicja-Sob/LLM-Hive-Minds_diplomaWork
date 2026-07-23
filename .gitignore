@@ -1,4 +1,5 @@
 /.idea
 *.pyc
-*/out
+/out
+/out/*
 */auxil

@@ -3,8 +3,8 @@ import json
 import asyncio
 from datetime import datetime
 
-from Pure.Agent import Agent, check_ollama_model, quit_ollama
-from questions.question_bank import get_chosen_question
+from Pure.multiAgent_version.Agent import Agent, check_ollama_model, quit_ollama
+from Pure.questions.question_bank import get_chosen_question
 from prompts import *
 
 EVALUATION_RUNS=2
@@ -18,13 +18,12 @@ MODEL_LIGHT_ANALYTICAL = "phi4-mini"
 MODEL_LIGHT_KNOWLEDGE = "gemma2:2b"
 
 # TODO: TEST THESE MODELS TO SEE WHICH WORK BEST FOR WHICH ROLE
-# CALCULATOR_MODELS = [MODEL_LIGHT_KNOWLEDGE, MODEL_LIGHT_ANALYTICAL, MODEL_LIGHT_KNOWLEDGE]
 CALCULATOR_MODELS = [MODEL_REGULAR, MODEL_LIGHT_ANALYTICAL, MODEL_REGULAR_LIGHT]
 EVALUATOR_MODELS = [MODEL_REGULAR, MODEL_REGULAR_LIGHT]
 USED_MODELS = set(CALCULATOR_MODELS + EVALUATOR_MODELS)
 
 CONSOLE_LOGS = True
-QUESTION_BANK = False
+QUESTION_BANK = True
 
 async def run_agent(agent: Agent, input: str, temperature: float = None, max_tokens: int = None):
     """Build a proper prompt for given agent and runs a chat with it"""
@@ -98,6 +97,12 @@ async def handle_worker(start_input: str, max_tokens: int, number_of_runs: int =
 async def handle_calculations(evaluator: Agent, user_input: str, research: str, max_tokens: int):
     """Runs calculations with varying temperature"""
     possible_results = ""
+    # The worker thoughts don't match the solutions. The thoughts say correct steps and even correct answers
+    # but the solutions are different and completely out of left field
+
+    # the evaluators also tend to choose an answer that is different even when all the rest are correct
+    # ex. if there's 1:5 and 10:3 it tends to choose 5 or not good even if 3 is the correct answer
+    # I'm not sure if this is just how they behave or if this is a mistake in the prompts or smth
     output_evaluation = ""
     start_input = f"""
     QUESTION: {user_input}
@@ -185,7 +190,7 @@ async def main():
         agent_researcher = Agent(model=MODEL_LIGHT_ANALYTICAL, role=ROLE_RESEARCHER)
         agent_evaluator = Agent(model=MODEL_REGULAR, role=ROLE_EVALUATOR)
         if QUESTION_BANK:
-            question_input = get_chosen_question()
+            question_input = get_chosen_question('Mathematics/MATH_abridged.json')
             print(f"Chosen question: {question_input}\n")
         else:
             question_input = input("> ")

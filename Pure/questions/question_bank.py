@@ -1,10 +1,13 @@
 import json
 import os
+from itertools import groupby
 
-def load_questions():
+# TODO: add ability to choose which question bank (s?) to use without changing it in the code
+
+def load_questions(full_file_name):
     try:
         base_dir = os.path.dirname(__file__)
-        file_path = os.path.join(base_dir, 'questions_math.json')
+        file_path = os.path.join(base_dir, full_file_name)
         with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
     except FileNotFoundError:
@@ -29,14 +32,23 @@ def choose_question(question_bank):
 def display_questions(question_bank):
     print("Choose a question by typing in the corresponding number:\n")
 
-    for number, question in enumerate(question_bank, start=1):
-        print(f"{number}. {question['question']}")
+    number = 1
+
+    for category, cat_group in groupby(question_bank, key=lambda q: q["category"]):
+        print(category.upper())
+        for level, lvl_group in groupby(cat_group, key=lambda q: q["difficulty level"]):
+            print(f"\t{level.upper()}")
+
+            # Print Questions indented twice with continuous numbering
+            for question in lvl_group:
+                print(f"\t\t{number} - {question['question']}")
+                number += 1
 
 
 
-def get_chosen_question():
+def get_chosen_question(full_file_name):
     chosen_question = ""
-    questions = load_questions()
+    questions = load_questions(full_file_name)
 
     if questions:
         display_questions(questions)
