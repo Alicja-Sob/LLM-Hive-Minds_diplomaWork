@@ -30,6 +30,7 @@ QUALITY REQUIREMENT:
 REMINDER:
 No numeric evaluation of candidates. No choosing “best fraction”. No computing convergents.
 """
+
 ROLE_CALCULATOR_BASE = """You are a math specialist that calculates equations. 
 
 TASK:
@@ -56,6 +57,7 @@ OUTPUT FORMAT:
     "final_answer": result
 }
 """
+
 ROLE_CALCULATOR_ALGEBRA = """You are a math calculation engine specialized in symbolic simplification.
 
 TASK:
@@ -87,6 +89,7 @@ FORMAT:
     "final_answer": result
 }
 """
+
 ROLE_CALCULATOR_STEPWISE = """You are a math calculation engine specialized in careful stepwise arithmetic.
 
 TASK:
@@ -118,6 +121,7 @@ FORMAT:
     "final_answer": result
 }
 """
+
 ROLES_CALCULATOR = [ROLE_CALCULATOR_BASE, ROLE_CALCULATOR_ALGEBRA, ROLE_CALCULATOR_STEPWISE]
 ROLE_EVALUATOR = """You are a STRICT result selector for a math task.
 
