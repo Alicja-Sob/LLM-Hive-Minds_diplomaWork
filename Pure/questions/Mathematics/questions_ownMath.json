@@ -6,6 +6,9 @@
     "correct_answer": "355/113",
     "acceptable_answers": [
       "355/113",
+      "(355)/(113)",
+      "(355)/113",
+      "355/(113)",
       "22/7",
       "333/106"
     ]
@@ -25,7 +28,10 @@
     "question": "Let ABCD be a regular tetrahedron with side length 1. Let u = vector AB and v = vector AC. Compute the exact value of ||u + v||",
     "correct_answer": "sqrt(3)",
     "acceptable_answers": [
-      "sqrt(3)"
+      "sqrt(3)",
+      "sqrt 3",
+      "sqrt3",
+      "sqrt{3}"
     ]
   },
   {
@@ -34,7 +40,14 @@
     "question": "Simplify the expression sqrt(50) + sqrt(18) - sqrt(8) and provide the result in exact radical form",
     "correct_answer": "6*sqrt(2)",
     "acceptable_answers": [
-      "6*sqrt(2)"
+      "6*sqrt(2)",
+      "6*sqrt 2",
+      "6*sqrt2",
+      "6*sqrt{2}",
+      "6 * sqrt(2)",
+      "6 * sqrt 2",
+      "6 * sqrt2",
+      "6 * sqrt{2}"
     ]
   },
   {
@@ -76,7 +89,9 @@
     "question": "Find the height of a regular tetrahedron with side length 1",
     "correct_answer": "sqrt(2/3)",
     "acceptable_answers": [
-      "sqrt(2/3)"
+      "sqrt(2/3)",
+      "sqrt 2/3",
+      "sqrt{2/3}"
     ]
   },
   {
@@ -94,7 +109,10 @@
     "question": "What is the probability of getting exactly 5 heads in 10 fair coin flips?",
     "correct_answer": "63/256",
     "acceptable_answers": [
-      "63/256"
+      "63/256",
+      "(63)/(256)",
+      "(63)/256",
+      "63/(256)"
     ]
   },
   {

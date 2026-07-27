@@ -125,7 +125,9 @@
     "acceptable_answers": [
       "45",
       "45s",
-      "45 seconds"
+      "45 seconds",
+      "45 [s]",
+      "45[s]"
     ]
   },
   {

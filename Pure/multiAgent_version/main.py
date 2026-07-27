@@ -82,9 +82,6 @@ async def handle_worker(start_input: str, max_tokens: int, number_of_runs: int =
         tasks.append(run_worker(role=role, input=start_input, model=chosen_model, max_tokens=max_tokens))
 
     results = await asyncio.gather(*tasks)
-    #results = []  # it should be gather but this lessens the chances of a timeout for now and makes it actually possible to test
-    #for t in tasks:
-    #    results.append(await t)
 
     if CONSOLE_LOGS:
         for idx, result in enumerate(results):
