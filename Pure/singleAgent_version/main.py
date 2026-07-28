@@ -89,7 +89,7 @@ async def main():
     try:
         print("system version: SINGLE AGENT")
         if QUESTION_BANK:
-            question_input = get_chosen_question('Mathematics/MATH_abridged.json')
+            question_input = get_chosen_question('Mathematics/MMLU_math_abridged.json')
             print(f"Chosen question: {question_input}\n")
         else:
             question_input = input("> ")

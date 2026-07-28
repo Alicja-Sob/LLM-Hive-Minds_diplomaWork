@@ -1,0 +1,119 @@
+% Wczytanie szablonu
+\documentclass[nostrict]{Szablon}
+
+\addbibresource{bibliography.bib}
+\usepackage{biblatex}
+
+% Definicja dokumentu
+\usepackage[unicode=true]{hyperref}
+\newcommand\PDFtitle{	
+ProjektDyplomowyInzynierski_188861_193365}
+\newcommand\PDFauthors{{Alicja Sobiech}{Kacper Skudlarz}}
+\hypersetup{
+  pdftitle={\PDFtitle},
+  pdfauthor={\PDFauthors},
+}
+
+% \usepackage{textcomp}
+\usepackage{array}
+% pakiet stosowany do url'i w bibliografii, zamienia odnośniki na ładnie sformatowane
+\usepackage{url}
+% pakiety służące do numerowania i tworzenia algorytmów
+\usepackage{algorithmic}
+\usepackage{algorithm}
+% redefinicja etykiety nagłówkowej listy algorytmów, domyślna jest po angielsku
+\renewcommand{\listalgorithmname}{Spis algorytmów}
+
+% pakiet do wyliczania skali, przydatny przy dużych obrazkach
+\usepackage{pgf}
+% tworzenie listingów
+\usepackage{listings}
+% tworzenie figur wewnątrz figur
+\usepackage{subfig}
+
+% makro umożliwiające otaczanie symboli okręgami
+\usepackage{tikz}
+% brak justowania tekstu (bazą okręgu będzie linia tekstu)
+\newcommand*\mycirc[1]{%
+  \begin{tikzpicture}
+    \node[draw,circle,inner sep=1pt] {#1};
+  \end{tikzpicture}}
+
+% pionowe justowanie tekstu, środek okręgu pokrywa się ze środkiem tekstu
+\newcommand*\mycircalign[1]{%
+  \begin{tikzpicture}[baseline=(C.base)]
+    \node[draw,circle,inner sep=1pt](C) {#1};
+  \end{tikzpicture}}
+
+% zmiana nazwy twierdzeń i lematów
+\newtheorem{theorem}{Twierdzenie}[section]
+\newtheorem{lemma}[theorem]{Lemat}
+
+% redefinicja dowodu - pogrubiony
+\renewenvironment{proof}[1][Dowód]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+% \newenvironment{definition}[1][Definicja]{\begin{trivlist}
+% \item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+% \newenvironment{example}[1][Przykład]{\begin{trivlist}
+% \item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+% \newenvironment{remark}[1][Uwaga]{\begin{trivlist}
+% \item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+
+% redefinicja czarnego prostokąta zwyczajowo dodawanego na koniec dowodu - oryginał jest biały
+\renewcommand{\qed}{\nobreak \ifvmode \relax \else
+      \ifdim\lastskip<1.5em \hskip-\lastskip
+      \hskip1.5em plus0em minus0.5em \fi \nobreak
+      \vrule height0.75em width0.5em depth0.25em\fi}
+
+% poniższymi instrukcjami można sterować co ma być numerowane a co nie i co ma być wyświetlane w spisie treści
+% \setcounter{secnumdepth}{3}
+% \setcounter{tocdepth}{5}
+
+% definicja czcionki mniejszej niż tiny (domyślnie takiej małej nie ma)
+% \usepackage{lmodern}
+\makeatletter
+  \newcommand\tinyv{\@setfontsize\tinyv{4pt}{6}}
+\makeatother
+
+% definicja jeszcze mniejszej czcionki
+% \usepackage{lmodern}
+\makeatletter
+  \newcommand\tinyvv{\@setfontsize\tinyvv{3.5pt}{6}}
+\makeatother
+
+% pakiet do obsługi wielostronicowych tabel
+\usepackage{longtable}
+\setlength{\LTcapwidth}{\textwidth}
+
+% \usepackage[section] {placeins}
+
+\usepackage{multirow}
+
+\usepackage{slantsc}
+
+
+% Zmiana czcionki dla symulacji maszynopisu (verbatim)
+\makeatletter
+\renewcommand{\verbatim@font}{\ttfamily\small}
+\makeatother
+
+% Część właściwa pracy
+\begin{document}
+\includepdf{chapters/oswiadczenia/tytulowa.pdf}
+% \includepdf{chapters/oswiadczenia/oswiadczenie.pdf}
+\hfill
+\pagebreak
+
+\include{chapters/0a_streszczenie}
+\include{chapters/0b_spis_tresci}
+\include{chapters/0c_wykaz_skrotow}
+\include{chapters/1_wstep}
+\include{chapters/2_wprowadzenieDoDziedziny}
+\include{chapters/3_technologieNarzedzia}
+\include{chapters/4_projektSystemu}
+\include{chapters/5_badaniaIAnaliza}
+\include{chapters/9_podsumowanie}
+
+\include{chapters/wykazy}
+
+\end{document}
