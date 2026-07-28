@@ -24,3 +24,7 @@ Folder `questions` and it's subfolders contains:
   * Questions are rewritten in a more natural language without LaTeX notation wherever possible. 
   * Question bank contains only 175 out of the 12500 questions (5 for each level of each of the 7 categories)
   * Questions for the abridged question bank were chosen arbitrally
+* `MMLU_math_abridged` - 80 questions based on mathematics sections of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset
+  * Questions are rewritten in a more natural language without LaTeX notation wherever possible. Answer and question sections are also put into one field
+  * Question bank contains 20 questions for each level/category of mathematics question subsets (abstraact algebra, college mathematics, high school mathematics, elementary mathematics)
+  * Questions for the abridged question bank were chosen arbitrally
