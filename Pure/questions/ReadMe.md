@@ -28,3 +28,7 @@ Folder `questions` and it's subfolders contains:
   * Questions are rewritten in a more natural language without LaTeX notation wherever possible. Answer and question sections are also put into one field
   * Question bank contains 20 questions for each level/category of mathematics question subsets (abstraact algebra, college mathematics, high school mathematics, elementary mathematics)
   * Questions for the abridged question bank were chosen arbitrally
+* `AQUARAT_abridged` - 50 math questions based on [Aqua_Rat](https://huggingface.co/datasets/deepmind/aqua_rat) dataset
+  * Questions are rewritten in a more natural language without LaTeX notation wherever possible. They contain only the question and possible answers (reasoning is not evaluated)
+  * Question bank contains only 50 out of nearly 100k questions
+  * Questions for the abridged question bank were chosen arbitrally
