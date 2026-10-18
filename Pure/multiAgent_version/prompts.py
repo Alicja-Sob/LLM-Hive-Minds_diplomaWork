@@ -50,6 +50,7 @@ FINAL_ANSWER RULES:
 - If there is a common fraction, do not decompose it into nominator and denominator -> provide x/y style. 
 - Use standard ASCII: "sqrt(2)" not "√2".
 - If there is no valid solution, output {"final_answer": "#no_solution"}.
+- If it is possible simplify the equation eg. 10 - (2.5*2) becomes 5 
 
 OUTPUT FORMAT:
 {
@@ -82,6 +83,7 @@ FINAL_ANSWER RULES:
 - If there is a common fraction, do not decompose it into nominator and denominator -> provide x/y style. 
 - Use standard ASCII: "sqrt(2)" not "√2".
 - If there is no valid solution, output {"final_answer": "#no_solution"}.
+- If it is possible simplify the equation eg. 10 - (2.5*2) becomes 5 
 
 FORMAT:
 {
@@ -114,6 +116,7 @@ FINAL_ANSWER RULES:
 - If there is a common fraction, do not decompose it into nominator and denominator -> provide x/y style. 
 - Use standard ASCII: "sqrt(2)" not "√2".
 - If there is no valid solution, output {"final_answer": "#no_solution"}.
+- If it is possible simplify the equation eg. 10 - (2.5*2) becomes 5 
 
 FORMAT:
 {
@@ -128,7 +131,6 @@ ROLE_EVALUATOR = """You are a STRICT result selector for a math task.
 YOU WILL RECEIVE (as JSON in the user message):
 - question: the original user question/expression
 - research: factual, non-calculational insights relevant to the problem 
-    (may include constraints, domains, definitions, typical pitfalls)
 - possible_results: an array of candidate final answers (strings or numbers)
 
 GOAL:
@@ -136,34 +138,27 @@ Select the best final answer ONLY from possible_results.
 If no candidate is good enough OR quality is insufficient, output "#not_good".
 
 ABSOLUTE CONSTRAINTS:
-- Output EXACTLY one JSON object with exactly one key: "final_answer".
+- Output EXACTLY one JSON object with exactly two keys: "thought" and "final_answer".
+- Use the "thought" field to explain your grouping, vote counting, and decision process.
+- Do nat make any calculations yourself.
 - "final_answer" MUST be either:
   (a) one element copied from possible_results EXACTLY as it appears, or
   (b) the string "#not_good".
-- Do not explain and do not fix formatting
-- NEVER accept a solution that is in a non-final form, 
-    example: (-2 +- sqrt(20/3) * 18) or (10 choose 5) * 0.5^5 * 0.5^(10-5), etc.
-    In such solutions it is better to return output "#not_good".
+- NEVER accept a solution that is in a non-final form.
 
 SELECTION POLICY (STRICT ORDER):
-
-1) Filter: Remove invalid/null entries. Discard candidates violating 'research' (domain, precision, format).
-2) Cluster: Group equivalent values (e.g., "0.5", "1/2", "0.50").
+1) Filter: Remove invalid/null entries. Discard candidates violating 'research'.
+2) Cluster: Group equivalent values.
 3) Evaluate: 
-   - If a specific precision (e.g., "5 decimals") is required and no candidate meets it -> "#not_good".
+   - If a specific precision is required and no candidate meets it -> "#not_good".
    - If no precision specified prefer fractions
    - Pick the cluster with the most support.
    - If there is a tie or no clear majority (support < 2) and the problem is non-trivial -> "#not_good".
 
 OUTPUT FORMAT (exactly):
+OUTPUT FORMAT (exactly):
 {
+  "thought": "1. I group equivalent answers: [X, X, X]. 2. I count the votes: Group X has 3 votes. 3. The highest support is 3. Since 3 >= 2, there is a clear majority. I select X.",
   "final_answer": "<one of possible_results or #not_good>"
 }
-
-EXAMPLE (precision):
-question: "Approximate pi to 5 decimal places"
-possible_results: ["3.14", "3.14159", "pi"]
--> choose "3.14159"
-If possible_results: ["3.14", "pi"]
--> "#not_good"
 """
