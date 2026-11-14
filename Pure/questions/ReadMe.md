@@ -28,6 +28,22 @@ Folder `questions` and it's subfolders contains:
   * Questions are rewritten in a more natural language without LaTeX notation wherever possible. Answer and question sections are also put into one field
   * Question bank contains 20 questions for each level/category of mathematics question subsets (abstraact algebra, college mathematics, high school mathematics, elementary mathematics)
   * Questions for the abridged question bank were chosen arbitrally
+* `MMLU_history_abridged` - 20 questions based on chosen history related sections of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset
+  * Questions are rewritten in a more natural language without LaTeX notation wherever possible. Answer and question sections are also put into one field
+  * Question bank contains 5 questions for each category of the chosen question subsets (High School European History, High School US History, High School World History, Prehistory)
+  * Questions for the abridged question bank were chosen arbitrally
+* `MMLU_medicine_abridged`- 45 questions based on chosen medicine and health related sections of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset
+  * Questions are rewritten in a more natural language without LaTeX notation wherever possible. Answer and question sections are also put into one field
+  * Question bank contains 5 questions for each category of the chosen question subsets (Professional Psychology, High School Psychology, Human Aging, Virology, Professional Medicine, Nutrition, Medical Genetics, Clinical Knowledge, College Medicine)
+  * Questions for the abridged question bank were chosen arbitrally
+* `MMLU_mOralityAndPhilosophy_abridged`- 20 questions based on chosen morality and philosphy related sections of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset
+  * Questions are rewritten in a more natural language without LaTeX notation wherever possible. Answer and question sections are also put into one field
+  * Question bank contains 5 questions for each category of the chosen question subsets (Business Ethics, Moral Disputes, Moral Scenarios, Philosophy)
+  * Questions for the abridged question bank were chosen arbitrally
+* `MMLU_politicsAndLaw_abridged`- 30 questions based on chosen politics and law related sections of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset
+  * Questions are rewritten in a more natural language without LaTeX notation wherever possible. Answer and question sections are also put into one field
+  * Question bank contains 5 questions for each category of the chosen question subsets (High School Government and Politics, International Law, Jurisprudence, Professional Law, US Foreign Policy)
+  * Questions for the abridged question bank were chosen arbitrally
 * `AQUARAT_abridged` - 50 math questions based on [Aqua_Rat](https://huggingface.co/datasets/deepmind/aqua_rat) dataset
   * Questions are rewritten in a more natural language without LaTeX notation wherever possible. They contain only the question and possible answers (reasoning is not evaluated)
   * Question bank contains only 50 out of nearly 100k questions

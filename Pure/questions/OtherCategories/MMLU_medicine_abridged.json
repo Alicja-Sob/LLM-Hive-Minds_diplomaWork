@@ -1,0 +1,557 @@
+[
+  {
+    "category": "MMLU medicine - College Medicine",
+    "difficulty level": "College level",
+    "question": "A student observes that mercury forms a convex meniscus in the graduated cylinder but that water forms a concave one. This behavior is best explained by the fact that... Choose the correct answer: A. the two liquids are being kept in graduated cylinders made of different materials, B. the adhesive forces between water and the walls of the graduated cylinder are greater than the adhesive forces between the mercury and the walls of the graduated cylinder, C. the cohesive forces between two mercury atoms are stronger than the cohesive forces between two water molecules, D. the mercury has strong cohesive than adhesive forces, whereas water has strong adhesive than cohesive ones\n",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. the mercury has strong cohesive than adhesive forces, whereas water has strong adhesive than cohesive ones",
+      "D.the mercury has strong cohesive than adhesive forces, whereas water has strong adhesive than cohesive ones",
+      "the mercury has strong cohesive than adhesive forces, whereas water has strong adhesive than cohesive ones"
+    ]
+  },
+  {
+    "category": "MMLU medicine - College Medicine",
+    "difficulty level": "College level",
+    "question": "How many chromosomes do all human somatic cells contain? Choose the correct answer: A. 3, B. 20, C. 23. D. 46",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. 46",
+      "D.46",
+      "46"
+    ]
+  },
+  {
+    "category": "MMLU medicine - College Medicine",
+    "difficulty level": "College level",
+    "question": "During exercise, adrenaline secretion from the adrenal glands is stimulated by... Choose the correct answer: A. increased plasma glucose, B. increased plasma fatty acids, C. increased plasma ACTH, D. increased sympathetic nerve activity",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. increased sympathetic nerve activity",
+      "D.increased sympathetic nerve activity",
+      "increased sympathetic nerve activity"
+    ]
+  },
+  {
+    "category": "MMLU medicine - College Medicine",
+    "difficulty level": "College level",
+    "question": "An allele that is masked is referred to as... Choose the correct answer: A. recessive, B. redundant, C. repressed, D. reclusive",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. recessive",
+      "A.recessive",
+      "recessive"
+    ]
+  },
+  {
+    "category": "MMLU medicine - College Medicine",
+    "difficulty level": "College level",
+    "question": "The social phenomenon of groupthink is characterized by all of the following EXCEPT... Choose the correct answer: A. A significant over-rating of the decision-making abilities of members of the ingroup, B. A decrease in the creativity of individual group members in contributing to solutions the ingroup wants to achieve, C. High loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions, D. An effort to minimize conflict and ensure consensus",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. High loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions",
+      "C.High loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions",
+      "High loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Clinical Knowledge",
+    "difficulty level": "No level",
+    "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)? Choose the correct answer: A. 18 gauge, B. 20 gauge, C. 22 gauge, D. 24 gauge\n",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. 18 gauge",
+      "A.18 gauge",
+      "18 gauge"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Clinical Knowledge",
+    "difficulty level": "No level",
+    "question": "Which of the following is true of a lower motor neurone lesion in the arm?\n Choose the correct answer: A. It leads to increased tone in the arm (hypertonia), B. Fasciculations are never seen, C. The reflexes are brisk, D. An ulna nerve palsy is an example of a lower motor neurone lesion\n",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. An ulna nerve palsy is an example of a lower motor neurone lesion",
+      "D.An ulna nerve palsy is an example of a lower motor neurone lesion",
+      "An ulna nerve palsy is an example of a lower motor neurone lesion"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Clinical Knowledge",
+    "difficulty level": "No level",
+    "question": "What is a colles fracture? Choose the correct answer: A. Hand fracture, B. Elbow fracture, C. Finger fracture, D. Fracture of the radius and ulna at the wrist.",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Fracture of the radius and ulna at the wrist",
+      "D.Fracture of the radius and ulna at the wrist",
+      "Fracture of the radius and ulna at the wrist"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Clinical Knowledge",
+    "difficulty level": "No level",
+    "question": "What is the minimum time a stretch should be held for? Choose the correct answer: A. 0-10 seconds, B. 10-30 seconds, C. 30-50 seconds, D. 60 seconds",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. 10-30 seconds",
+      "B.10-30 seconds",
+      "10-30 seconds"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Clinical Knowledge",
+    "difficulty level": "No level",
+    "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately... Choose the correct answer: A. 400 kJ/min, B. 200 kJ/min, C. 80 kJ/min, D. 40 kJ/min",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. 40 kJ/min",
+      "D.40 kJ/min",
+      "40 kJ/min"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Medical Genetics",
+    "difficulty level": "No level",
+    "question": "In a Robertsonian translocation fusion occurs at the... Choose the correct answer: A. telomeres, B. centromeres, C. histones, D. ends of the long arms",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. centromeres",
+      "B.centromeres",
+      "centromeres"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Medical Genetics",
+    "difficulty level": "No level",
+    "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females? Choose the correct answer: A. 0.01, B. 0.001, C. 0.02, D. 0.0001\n",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. 0.01",
+      "A.0.01",
+      "0.01"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Medical Genetics",
+    "difficulty level": "No level",
+    "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is... Choose the correct answer: A. 1%, B. 10%, C. 25%, D. Almost 100%",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Almost 100%",
+      "D.Almost 100%",
+      "Almost 100%"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Medical Genetics",
+    "difficulty level": "No level",
+    "question": "Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? Choose the correct answer: A. Fabry disease, B. Gaucher disease, C. Hurler syndrome, D. Pompe disease",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Hurler syndrome",
+      "C.Hurler syndrome",
+      "Hurler syndrome"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Medical Genetics",
+    "difficulty level": "No level",
+    "question": "Severe anaemia at birth is a feature of what? Choose the correct answer: A. Alpha-thalassaemia, B. Beta-thalassaemia, C. Hereditary persistence of fetal haemoglobin, D. Sickle cell disease",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Alpha-thalassaemia",
+      "A.Alpha-thalassaemia",
+      "Alpha-thalassaemia"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Nutrition",
+    "difficulty level": "No level",
+    "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?  Choose the correct answer: A. Meat, B. Confectionary, C. Fruits and vegetables, D. Potatoes",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Fruits and vegetables",
+      "C.Fruits and vegetables",
+      "Fruits and vegetables"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Nutrition",
+    "difficulty level": "No level",
+    "question": "Which of the following contributes to vitamin B12 deficiency in older adults? Choose the correct answer: A. Reduced secretion of intrinsic factor, B. Atrophic gastritis, C. Helicobacter pylori infection, D. All of the above",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. All of the above",
+      "D.All of the above",
+      "All of the above"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Nutrition",
+    "difficulty level": "No level",
+    "question": "The following amino acids are all essential components of the diet... Choose the correct answer: A. leucine, methionine and threonine, B. proline, tyrosine and serine, C. valine, glycine and arginine, D. leucine, cysteine and glycine",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. leucine, methionine and threonine",
+      "A.leucine, methionine and threonine",
+      "leucine, methionine and threonine"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Nutrition",
+    "difficulty level": "No level",
+    "question": "Why are some specific indices of iron status (such as serum ferritin or transferrin receptors) generally considered to be more reliable indices of iron status, than blood haemoglobin levels are? Choose the correct answer: A. Because they respond more rapidly to changes in iron levels in the diet, B. Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc, C. Because the specific iron indices can be measured more accurately and easily, D. Because haemoglobin levels vary with subject age, and between the sexes",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc",
+      "B.Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc",
+      "Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Nutrition",
+    "difficulty level": "No level",
+    "question": "Which one of the following statements about protein nutrition is correct? Choose the correct answer: A. There is a requirement for dietary protein, but it is unimportant which protein is consumed, B. The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet, C. All dietary proteins have the same amino acid content and composition, D. For an adult in nitrogen equilibrium there is only a small requirement for an intake of protein since amino acids arising from tissue protein catabolism are available for new protein synthesis\n",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet",
+      "B.The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet",
+      "The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Professional Medicine",
+    "difficulty level": "Professional Level",
+    "question": "A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatment in the hospital for 3 weeks. She had a retroperitoneal hemorrhage; anticoagulant therapy was temporarily discontinued, and she underwent placement of an inferior vena cava (IVC) filter. She had a hematoma that was resolving on discharge from the hospital 2 weeks ago. Today, she says she has had a persistent sensation of tingling and numbness of her left thigh that she did not report in the hospital because she thought it would go away; the sensation has improved somewhat during the past week. Her only medication is warfarin. Vital signs are within normal limits. Examination of the skin shows no abnormalities. Muscle strength is normal. Sensation to light touch is decreased over a 5 x 5-cm area on the lateral aspect of the left anterior thigh. Which of the following is the most likely cause of this patient's decreased sensation? Choose the correct answer: A. Cerebral infarction during the hospitalization, B. Complication of the IVC filter placement, C. Compression of the lateral femoral cutaneous nerve,  D. Hematoma of the left thigh",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Compression of the lateral femoral cutaneous nerve",
+      "C.Compression of the lateral femoral cutaneous nerve",
+      "Compression of the lateral femoral cutaneous nerve"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Professional Medicine",
+    "difficulty level": "Professional Level",
+    "question": "A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PPD skin test. The test was done as part of a routine screening for enrollment in a homeless shelter. Physical examination shows 10 mm of induration at the puncture site; the examination is otherwise normal. The parents tell you they are shocked by this finding since both of their skin tests were nonreactive. They say they were born in this country and tell you that their daughter has always been in good health. She has not had much medical care in the past 2 years but she has been healthy. Until moving into this shelter they had been 'squatters' in vacant buildings. Which of the following is the most appropriate step at this time? Choose the correct answer: A. Call her previous physician to obtain more history, B. Order a chest x-ray, C. Order a test for HIV antibody, D. Repeat the PPD skin test",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Order a chest x-ray",
+      "B.Order a chest x-ray",
+      "Order a chest x-ray"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Professional Medicine",
+    "difficulty level": "Professional Level",
+    "question": "A 3-year-old boy with chronic granulomatous disease is brought to the physician because of a 3-week history of fever and warm, red lumps under both arms. His temperature is 38°C (100.4°F). Physical examination shows enlarged, 3-cm, erythematous axillary lymph nodes bilaterally. On palpation, the nodes are tender, fluctuant, and movable. Examination of a fine-needle aspirate from one of the nodes shows gram-positive cocci in clusters. Cultures of the aspirate grow yellow, βhemolytic colonies that are catalase and coagulase positive. A polymerase chain reaction test shows mecA-positive organisms. Which of the following is the most appropriate pharmacotherapy for this patient?\n Choose the correct answer: A. Ciprofloxacin, B. Penicillin G, C. Rifampin, D. Vancomycin",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Vancomycin",
+      "D.Vancomycin",
+      "Vancomycin"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Professional Medicine",
+    "difficulty level": "Professional Level",
+    "question": "A 52-year-old man comes to the physician with his wife because of a 1-year history of excessive daytime sleepiness. He does not think the symptoms are problematic, but his wife is concerned because he sometimes falls asleep on the sofa early in the evening when guests are present. He also once fell asleep while driving at night and drove off the road, narrowly avoiding injury. His wife says that he has always snored loudly, and over the past year, he has had episodes of choking or gasping for breath while sleeping. He is 178 cm (5 ft 10 in) tall and weighs 105 kg (231 lb); BMI is 33 kg/m2 . His pulse is 76/min, respirations are 14/min, and blood pressure is 150/76 mm Hg. Physical and neurologic examinations show no other abnormalities. Which of the following is most likely to confirm the diagnosis? Choose the correct answer: A. 24-Hour ambulatory ECG monitoring, B. Multiple sleep latency test, C. Polysomnography, D. CT scan of the head",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Polysomnography",
+      "C.Polysomnography",
+      "Polysomnography"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Professional Medicine",
+    "difficulty level": "Professional Level",
+    "question": "A previously healthy 14-year-old girl is brought to the physician because of a 2-day history of fever and pain and swelling of the right knee. She remembers injuring the knee while playing soccer last week, but she was able to finish the game. She has no history of rash or joint pain. Her sister has inflammatory bowel disease. The patient's temperature is 39°C (102.2°F), blood pressure is 110/80 mm Hg, pulse is 95/min, and respirations are 20/min. Examination of the right knee shows swelling, tenderness, warmth, and erythema; range of motion is limited. Which of the following is the most appropriate next step in management? Choose the correct answer: A. Nuclear scan of the right knee, B. MRI of the right knee, C. Antibiotic therapy, D. Arthrocentesis",
+      "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Arthrocentesis",
+      "D.Arthrocentesis",
+      "Arthrocentesis"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Virology",
+    "difficulty level": "No level",
+    "question": "How many human polyomaviruses are known at present? Choose the correct answer: A. 100, B. 1, C. 10, D. unknown",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. 100",
+      "A.100",
+      "100"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Virology",
+    "difficulty level": "No level",
+    "question": "AIDS activism in the U.S. resulted in... Choose the correct answer: A. Food and Drug Administration reforms, B. Easier access to investigational drugs, C. Changes in the way medicine was practiced in the U.S., D. All of the above",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. All of the above",
+      "D.All of the above",
+      "All of the above"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Virology",
+    "difficulty level": "No level",
+    "question": "Which member of the paramyxovirus family can cause very serious croup? Choose the correct answer: A. Measles, B. Meta pneumo virus, C. Hendra, D. Respiratory syncytial virus (RSV)",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Meta pneumo virus",
+      "B.Meta pneumo virus",
+      "Meta pneumo virus"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Virology",
+    "difficulty level": "No level",
+    "question": "The influenza virus is mainly controlled in special 'risk' sectors by... Choose the correct answer: A. Hygiene, B. Vaccination, C. Antiviral drugs, D. Humanised monoclonal antibodies",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Vaccination",
+      "B.Vaccination",
+      "Vaccination"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Virology",
+    "difficulty level": "No level",
+    "question": "Why are drug combinations essential for HIV? Choose the correct answer: A. Single drugs are not completely inhibitory, B. Mutations negate the effect of one drug, C. Combinations of antibiotics are effective versus TB, D. The virus cannot mutate vs a combination\n",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Combinations of antibiotics are effective versus TB",
+      "C.Combinations of antibiotics are effective versus TB",
+      "Combinations of antibiotics are effective versus TB"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Human Aging",
+    "difficulty level": "No level",
+    "question": "The study of older adults and aging is referred to as... Choose the correct answer: A. Gerontology, B. Geropsychiatry, C. Geriatrics, D. Gero-education",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Gerontology",
+      "A.Gerontology",
+      "Gerontology"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Human Aging",
+    "difficulty level": "No level",
+    "question": "The docility hypothesis is that... Choose the correct answer: A. Those with low capabilities are more vulnerable to environmental demands, B. Those who experience high environmental demands become more docile, C. Those who experience high environmental demands become less docile, D. Those with less capability are less vulnerable to environmental demands\n",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Those with low capabilities are more vulnerable to environmental demands",
+      "A.Those with low capabilities are more vulnerable to environmental demands",
+      "Those with low capabilities are more vulnerable to environmental demands"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Human Aging",
+    "difficulty level": "No level",
+    "question": "The total number of people who have some disorder divided by the total number of people gives you the ____ rate. Choose the correct answer: A. Prevalence, B. Incidence, C. Incipient, D. Diseased",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Prevalence",
+      "A.Prevalence",
+      "Prevalence"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Human Aging",
+    "difficulty level": "No level",
+    "question": "The answer 'both play an important role' is clearly applicable to the question of... Choose the correct answer: A. Nature vs. nurture, B. Mechanistic vs organismic, C. Continuity vs. discontinuity, D. All of these questions",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. All of these questions",
+      "D.All of these questions",
+      "All of these questions"
+    ]
+  },
+  {
+    "category": "MMLU medicine - Human Aging",
+    "difficulty level": "No level",
+    "question": "Older adults generally perform very well when their _____ memory is tested. Choose the correct answer: A. Episodic, B. Working, C. Retrospective, D. Semantic",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Semantic",
+      "D.Semantic",
+      "Semantic"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - High School Psychology",
+    "difficulty level": "High School Level",
+    "question": "Nearsightedness results from... Choose the correct answer: A. too much curvature of the cornea and lens, B. too little curvature of the cornea and lens, C. too much curvature of the iris and lens, D. too little curvature of the iris and lens",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. too much curvature of the cornea and lens",
+      "A.too much curvature of the cornea and lens",
+      "too much curvature of the cornea and lens"
+    ]
+  },
+  {
+    "category": "MMLU medicine - High School Psychology",
+    "difficulty level": "High School Level",
+    "question": "Susan is a first-grade student who is referred to the school psychologist because she will not remain seated at her desk. Her teacher reports that Susan is 'always getting up and walking around the room.' What observation data is LEAST relevant to the referral concern? Choose the correct answer: A. Frequency, B. Duration, C. Intensity, D. Peer comparison",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Intensity",
+      "C.Intensity",
+      "Intensity"
+    ]
+  },
+  {
+    "category": "MMLU medicine - High School Psychology",
+    "difficulty level": "High School Level",
+    "question": "During the manic phase of a bipolar disorder, individuals are most likely to experience Choose the correct answer: A. high self-esteem, B. delusions of persecution, C. uncontrollable grief and despair, D. visual hallucinations",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. high self-esteem",
+      "A.high self-esteem",
+      "high self-esteem"
+    ]
+  },
+  {
+    "category": "MMLU medicine - High School Psychology",
+    "difficulty level": "High School Level",
+    "question": "Children who suffer brain damage may be able to regain their physical and mental abilities more quickly than older brain damage patients due to which of the following properties of the brain? Choose the correct answer: A. contralateral control, B. Klinefelter's syndrome, C. effective psychological environment, D. brain plasticity",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. brain plasticity",
+      "D.brain plasticity",
+      "brain plasticity"
+    ]
+  },
+  {
+    "category": "MMLU medicine - High School Psychology",
+    "difficulty level": "High School Level",
+    "question": "What kind of symptom is common among all the somatoform disorders? Choose the correct answer: A. inappropriate affect, B. disconnection from reality and delusions related to personal identity, C. maladaptive ways of behaving that prevent a person from accomplishing goals, D. experiencing a physical problem without a physical cause",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. experiencing a physical problem without a physical cause",
+      "D.experiencing a physical problem without a physical cause",
+      "experiencing a physical problem without a physical cause"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Professional Psychology",
+    "difficulty level": "Professional Level",
+    "question": "According to Piaget, children are ___________. Choose the correct answer: A. 'Blank slates', B. Less intelligent than adults, C. 'Little scientists', D. Shaped by culture\n",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. 'Little scientists'",
+      "C.'Little scientists'",
+      "'Little scientists'",
+      "C. Little scientists",
+      "C.Little scientists",
+      "Little scientists"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Professional Psychology",
+    "difficulty level": "Professional Level",
+    "question": "Aronson and Mills examined the effects severity of initiation into a group on subsequent attitudes toward the group. Results of their study indicated that, compared to women who underwent a mild initiation, women who underwent a severe initiation as a precondition of group membership... Choose the correct answer: A. rated the group as less interesting and enjoyable, B. rated the group as more interesting and enjoyable, C. were more likely to drop out of the group, D. were more likely to dislike fellow group members",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. rated the group as more interesting and enjoyable",
+      "B.rated the group as more interesting and enjoyable",
+      "rated the group as more interesting and enjoyable"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Professional Psychology",
+    "difficulty level": "Professional Level",
+    "question": "The STANDARD SCORES express raw score distance from mean by SD and considered the most satisfactory type of NR score. Which statement out of the following ones is about T-scores? Choose the correct answer: A. Shows how many standard deviations a score is above or below the mean: a score of +1.0 means it’s 1 SD above the mean, B. M=50, SD=10- it is used on many psychological tests, MMPI, C. standard nine: M=5, SD=approx 2, D. M=100, SD=15 or 16",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. M=50, SD=10- it is used on many psychological tests, MMPI",
+      "B.M=50, SD=10- it is used on many psychological tests, MMPI",
+      "M=50, SD=10- it is used on many psychological tests, MMPI"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Professional Psychology",
+    "difficulty level": "Professional Level",
+    "question": "A 16-month-old child who calls her pet cat “kitty” sees a dog for the first time and calls it “kitty.” In terms of Piaget’s theory of cognitive development, the child is displaying... Choose the correct answer: A. assimilation, B. accommodation, C. categorization, D. centration",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. assimilation",
+      "A.assimilation",
+      "assimilation"
+    ]
+  },
+
+  {
+    "category": "MMLU medicine - Professional Psychology",
+    "difficulty level": "Professional Level",
+    "question": "A person is most likely to be helped in an emergency situation when... Choose the correct answer: A. there is a single bystander, B. there are several bystanders, C. there are several bystanders of the same gender, D. there are several bystanders of the opposite gender",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. there is a single bystander",
+      "A.there is a single bystander",
+      "there is a single bystander"
+    ]
+  }
+]

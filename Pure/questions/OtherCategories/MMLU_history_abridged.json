@@ -1,0 +1,245 @@
+[
+  {
+    "category": "MMLU history - High School European History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'In order to make the title of this discourse generally intelligible, I have translated the term 'Protoplasm,' which is the scientific name of the substance of which I am about to speak, by the words 'the physical basis of life.' I suppose that, to many, the idea that there is such a thing as a physical basis, or matter, of life may be novel—so widely spread is the conception of life as something which works through matter. … Thus the matter of life, so far as we know it (and we have no right to speculate on any other), breaks up, in consequence of that continual death which is the condition of its manifesting vitality, into carbonic acid, water, and nitrogenous compounds, which certainly possess no properties but those of ordinary matter.' Thomas Henry Huxley, 'The Physical Basis of Life,' 1868. From the passage, one may infer that Huxley argued that 'life' was... Choose the correct answer: A. a force that works through matter, B. essentially a philosophical notion, C. merely a property of a certain kind of matter, D. a supernatural phenomenon\n",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C. merely a property of a certain kind of matter",
+      "C.merely a property of a certain kind of matter",
+      "merely a property of a certain kind of matter",
+      "C"
+    ]
+  },
+  {
+    "category": "MMLU history - High School European History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'The substitution of Plato for the scholastic Aristotle was hastened by contact with Byzantine scholarship. Already at the Council of Ferrera (1438), which nominally reunited the Eastern and Western churches, there was a debate in which the Byzantines maintained the superiority of Plato to Aristotle. Cosimo and Lorenzo de Medici were both addicted to Plato; Cosimo founded and Lorenzo continued the Florentine Academy, which was largely devoted to the study of Plato&…The humanists of the time, however, were too busy acquiring knowledge of antiquity to be able to produce anything of value.' Bertrand Russell, British philosopher, History of Western Philosophy, 1946. It can be inferred from the passage that the Council of Ferrera... Choose the correct answer: A. laid the foundation for the Florentine Academy, B. permanently reconciled the differences between the Eastern and Western churches, C. accelerated the rediscovery of classical philosophy in Western Europe, D. allowed the Byzantines to learn from Florentine scholarship",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C. accelerated the rediscovery of classical philosophy in Western Europe",
+      "C.accelerated the rediscovery of classical philosophy in Western Europe",
+      "accelerated the rediscovery of classical philosophy in Western Europe",
+      "C"
+    ]
+  },
+  {
+    "category": "MMLU history - High School European History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'For the catastrophe of 1914 the Germans are responsible. … Germany, in this matter, was unfortunate enough to allow herself (in spite of her skill at dissimulation) to be betrayed into an excess of candour by her characteristic tendency to go to extremes. Deutschland über alles. Germany above everything! … There you have the ultimate framework of an old but childish race.' Georges Clemenceau, Grandeur and Misery of Victory, 1930. From the passage, one may infer that Clemenceau ... Choose the correct answer: A. blamed Germany for the Great Depression, B. blamed Germany for World War I, C. blamed Germany for World War II, D. blamed Germany for the Franco-Prussian War",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B. blamed Germany for World War I",
+      "B.blamed Germany for World War I",
+      "blamed Germany for World War I",
+      "B"
+    ]
+  },
+  {
+    "category": "MMLU history - High School European History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'At last it seems to me that I have come to understand why man is the most fortunate of all creatures and consequently worthy of all admiration. … The nature of all other beings is limited. … Imagine! The great generosity of God! The happiness of man! To man it is allowed to be whatever he chooses to be!' Pico della Mirandola, Oration on the Dignity of Man, 1486. From the passage, one may infer that Pico believed that humankind was unique because... Choose the correct answer: A. human beings have a soul, B. human beings know that they will die, C. it is possible for human beings to go to heaven, D. the potential of the human being is unlimited",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D. the potential of the human being is unlimited",
+      "D.the potential of the human being is unlimited",
+      "the potential of the human being is unlimited",
+      "D"
+    ]
+  },
+  {
+    "category": "MMLU history - High School European History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'XI. As the present sciences are useless for the discovery of effects, so the present system of logic is useless for the discovery of the sciences. XIX. There are and can exist but two ways of investigating and discovering truth. The one hurries on rapidly from the senses and particulars to the most general axioms, and from them, as principles and their supposed indisputable truth, derives and discovers the intermediate axioms. This is the way now in use. The other constructs its axioms from the senses and particulars, by ascending continually and gradually, till it finally arrives at the most general axioms, which is the true but unattempted way. XXII. Each of these two ways begins from the senses and particulars, and ends in the greatest generalities&… XXXVI. We have but one simple method of delivering our sentiments, namely, we must bring men to particulars and their regular series and order, and they must for a while renounce their notions, and begin to form an acquaintance with things.' Francis Bacon, English philosopher and essayist, Novum Organum, 1620. The method of inquiry elucidated by Francis Bacon in the passage is known as... Choose the correct answer: A. humanism, B. deduction, C. empiricism, D. scientific socialism",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C. empiricism",
+      "C.empiricism",
+      "empiricism",
+      "C"
+    ]
+  },
+
+  {
+    "category": "MMLU history - High School US History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'BECAUSE no People can be truly happy, though under the greatest Enjoyment of Civil Liberties, if abridged of the Freedom of their Consciences, as to their Religious Profession and Worship: And Almighty God being the only Lord of Conscience, Father of Lights and Spirits; and the Author as well as Object of all divine Knowledge, Faith and Worship, who only doth enlighten the Minds, and persuade and convince the Understanding of People, I do hereby grant and declare, That no Person or Persons, inhabiting in this Province or Territories, who shall confess and acknowledge One almighty God, the Creator, Upholder and Ruler of the World; and profess him or themselves obliged to live quietly under the Civil Government, shall be in any Case molested or prejudiced, in his or their Person or Estate, because of his or their conscientious Persuasion or Practice, nor be compelled to frequent or maintain any religious Worship, Place or Ministry, contrary to his or their Mind.…' William Penn, Charter of Privileges Granted by William Penn,esq. to the Inhabitants of Pennsylvania and Territories, October 28, 1701. Because of Penn's Charter of Privileges, Pennsylvania became... Choose the correct answer: A. one of the most religiously diverse colonies in British America, B. one of the least religiously diverse colonies in America, C. notorious for witch hunting and popular superstition, D. known for its hostility to traditional religious practices",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A. one of the most religiously diverse colonies in British America",
+      "A.one of the most religiously diverse colonies in British America",
+      "one of the most religiously diverse colonies in British America",
+      "A"
+    ]
+  },
+  {
+    "category": "MMLU history - High School US History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'Some men look at constitutions with sanctimonious reverence, and deem them like the ark of the covenant, too sacred to be touched. They ascribe to the men of the preceding age a wisdom more than human, and suppose what they did to be beyond amendment….But I know also, that laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times.' Thomas Jefferson, 1816. Which of the following statements is most accurate regarding the existence of political parties in the early United States? Choose the correct answer: A. After the drafting of the Constitution, continued debates about states' rights and competing economic interests led to the formation of political parties, such as the Federalists and the Democratic-Republicans, B. Although Washington warned against the influence of political parties, he reluctantly accepted the endorsement of the Federalist party, C. Political parties did not exist until the War of 1812, when Federalists asserted control over foreign policies with France and Britain, D. Two major political parties dominated early presidential elections until John Quincy Adams founded the Whig party in 1824",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Although Washington warned against the influence of political parties, he reluctantly accepted the endorsement of the Federalist party",
+      "B.Although Washington warned against the influence of political parties, he reluctantly accepted the endorsement of the Federalist party",
+      "Although Washington warned against the influence of political parties, he reluctantly accepted the endorsement of the Federalist party"
+    ]
+  },
+  {
+    "category": "MMLU history - High School US History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'An act for the more effectual protection of the property of married women: §1. The real property of any female who may hereafter marry, and which she shall own at the time of marriage, and the rents, issues, and profits thereof, shall not be subject to the sole disposal of her husband, nor be liable for his debts, and shall continue her sole and separate property, as if she were a single female. §2. The real and personal property, and the rents, issues, and profits thereof, of any female now married, shall not be subject to the disposal of her husband; but shall be her sole and separate property, as if she were a single female, except so far as the same may be liable for the debts of her husband heretofore contracted. §3. Any married female may take by inheritance, or by gift, grant, devise, or bequest, from any person other than her husband, and hold to her sole and separate use, and convey and devise real and personal property, and any interest or estate therein, and the rents, issues, and profits thereof, in the same manner and with like effect as if she were unmarried, and the same shall not be subject to the disposal of her husband nor be liable for his debts.' Married Women's Property Act, New York State (1848). The ideas expressed in the passage above most directly reflect which of the following continuities in U.S. history? Choose the correct answer: A. Debates about access to voting rights, B. Debates about the role of federal government in marriage law, C. Debates about discrimination in employment, D. Debates about the legal status of women",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Debates about the legal status of women",
+      "D.Debates about the legal status of women",
+      "Debates about the legal status of women"
+    ]
+  },
+  {
+    "category": "MMLU history - High School US History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'The economic ills we suffer have come upon us over several decades. They will not go away in days, weeks, or months, but they will go away. They will go away because we as Americans have the capacity now, as we've had in the past, to do whatever needs to be done to preserve this last and greatest bastion of freedom. In this present crisis, government is not the solution to our problem; government is the problem. ... 'It is my intention to curb the size and influence of the Federal establishment and to demand recognition of the distinction between the powers granted to the Federal Government and those reserved to the States or to the people. All of us need to be reminded that the Federal Government did not create the States; the States created the Federal Government.' Ronald Reagan, First Inaugural Address, January 21, 1981. Which of the following ongoing debates in U.S. history is expressed in the quotation? Choose the correct answer: A. Debates over the powers of the president, B. Debates over participation in elections, C. Debates over federal power over the economy, D. Debates over federal power over international affairs",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Debates over federal power over the economy",
+      "C.Debates over federal power over the economy",
+      "Debates over federal power over the economy"
+    ]
+  },
+  {
+    "category": "MMLU history - High School US History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'We found that not only was it a civil war, an effort by a people who had for years been seeking their liberation from any colonial influence whatsoever, but also we found that the Vietnamese whom we had enthusiastically molded after our own image were hard put to take up the fight against the threat we were supposedly saving them from. 'We found most people didn't even know the difference between communism and democracy. They only wanted to work in rice paddies without helicopters strafing them and bombs with napalm burning their villages and tearing their country apart. They wanted everything to do with the war, particularly with this foreign presence of the United States of America, to leave them alone in peace, and they practiced the art of survival by siding with whichever military force was present at a particular time, be it Viet Cong, North Vietnamese or American.' John Kerry, 1971. Which of the following pairs of words best characterizes the differences between the approaches of Presidents Lyndon Johnson (1963–1969) and Richard Nixon (1969–1974) to the Vietnam conflict? Choose the correct answer: A. Aggression vs. pacifism, B. Competency vs. failure, C. Insurgence vs. retreat, D. Appeasement vs. provocation",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Insurgence vs. retreat",
+      "C.Insurgence vs. retreat",
+      "Insurgence vs. retreat"
+    ]
+  },
+
+  {
+    "category": "MMLU history - High School World History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. Gunpowder Weaponry: Europe vs. China 'In Western Europe during the 1200s through the 1400s, early cannons, as heavy and as slow to fire as they were, proved useful enough in the protracted sieges that dominated warfare during this period that governments found it sufficiently worthwhile to pay for them and for the experimentation that eventually produced gunpowder weapons that were both more powerful and easier to move. By contrast, China, especially after the mid-1300s, was threatened mainly by highly mobile steppe nomads, against whom early gunpowder weapons, with their unwieldiness, proved of little utility. It therefore devoted its efforts to the improvement of horse archer units who could effectively combat the country's deadliest foe.' The argument in this passage most closely relates to which of the following large-scale questions about global history? Choose the correct answer: A. How societies shared strategically important technologies with each other, B. Why European states went on to attain military superiority over non-Western powers in the modern era, C. Why Silk Road commerce dwindled across the breadth of Eurasia after 1500 C.E, D. How the medieval climatic optimum affected the process of cultural diffusion",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Why European states went on to attain military superiority over non-Western powers in the modern era",
+      "B.Why European states went on to attain military superiority over non-Western powers in the modern era",
+      "Why European states went on to attain military superiority over non-Western powers in the modern era"
+    ]
+  },
+  {
+    "category": "MMLU history - High School World History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'The question as to who, and what, is responsible for African underdevelopment can be answered at two levels. Firstly, the answer is that the operation of the imperialist system bears major responsibility for African economic retardation by draining African wealth and by making it impossible to develop more rapidly the resources of the continent. Secondly, one has to deal with those who manipulate the system and those who are either agents or unwitting accomplices of the said system. The capitalists of Western Europe were the ones who actively extended their exploitation from inside Europe to cover the whole of Africa.' Walter Rodney, historian, How Europe Underdeveloped Africa, 1974. Which of the following best explains the importance of trading contacts with Europeans for Sub-Saharan Africans in the period 1450 to 1750 C.E.? Choose the correct answer: A. Sub-Saharan Africans relied on European merchants to sustain population growth through the constant importation of New World foodstuffs, B. Sub-Saharan Africans consolidated new states and kingdoms by trading with the Europeans for firearms, C. Sub-Saharan Africans depended on European merchants as the sole purchasers of slaves, D. Sub-Saharan Africans allied with European powers to evict Muslim and Arab merchant princes from encroaching on their sovereignty",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Sub-Saharan Africans consolidated new states and kingdoms by trading with the Europeans for firearms",
+      "B.Sub-Saharan Africans consolidated new states and kingdoms by trading with the Europeans for firearms",
+      "Sub-Saharan Africans consolidated new states and kingdoms by trading with the Europeans for firearms"
+    ]
+  },
+  {
+    "category": "MMLU history - High School World History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'Al-Zawawi also said 'This sultan Musa told me that at a town called ZKRY he has a copper mine from which ingots are brought to BYTY. 'There is nothing in my kingdom, Musa said, on which a duty is levied except this crude copper which is brought in. Duty is collected on this and on nothing else. We send it to the land of the pagan Sudan and sell it for two-thirds of its weight in gold, so that we sell 100 measures of this copper for 66 2/3 measures of gold.' He also stated that there are pagan nations in his kingdom from whom he does not collect the tribute (jizya) but whom he simply employs in extracting the gold from its deposits. The gold is extracted by digging pits about a man's height in depth and the gold is found embedded in the sides of the pits or sometimes collected at the bottom of them.' From N. Levtzion & J.F.P. Hopkins, eds. Corpus of Early Arabic Sources for West African History. Cambridge University Press, 1981. Reprinted with permission of Cambridge University Press. Al' Umari, ca. 1300–1384. Based on your knowledge of world history and the passage, Mansa Musa's assertion about the lack of duties levied on goods in his kingdom most strongly reflects which of the following about the kingdom of Mali? Choose the correct answer: A. Mali's wealth came in large part from its exploitation of minerals, B. Mali's wealth came in large part from its conquest of pagan neighbors, C. Mali's wealth came in large part from large agricultural estates, D. Mali's wealth came in large part from the exploitation of the slave trade",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Mali's wealth came in large part from its exploitation of minerals",
+      "A.Mali's wealth came in large part from its exploitation of minerals",
+      "Mali's wealth came in large part from its exploitation of minerals"
+    ]
+  },
+  {
+    "category": "MMLU history - High School World History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'The invaders had brought in wheat and other Eurasian and African grains; peach, pear, orange, and lemon trees; chick-peas, grape vines, melons, onions, radishes, and much more. A Spanish nobleman come to America could require his Indians to furnish his table with the fruits of his ancestors.' Alfred Crosby, historian, 1972. What economic practice is referred to by the phrase 'his Indians' in the quote? Choose the correct answer: A. Slavery, B. Indentured servitude, C. The encomienda system, D. The apprentice system\n",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. The encomienda system",
+      "C.The encomienda system",
+      "The encomienda system"
+    ]
+  },
+  {
+    "category": "MMLU history - High School World History",
+    "difficulty level": "High School Level",
+    "question": "This question refers to the following information. 'My little homestead in the city, which I recently insured for ￡2,000 would no doubt have shared the common fate, as the insurance companies will not make good that which is destroyed by the Queen's enemies. And although I have a farm of 50 acres close to the town, no doubt the crops and premises would have been destroyed. In fact, this has already partly been the case, and I am now suing the Government for damages done by a contingent of 1,500 natives that have recently encamped not many hundred yards from the place, who have done much damage all around.' Letter from a British citizen to his sister during the Anglo-Zulu War, South Africa, 1879. Which of the following reasons explains why European citizens moved in large numbers to Zulu lands in 1867? Choose the correct answer: A. The British crown offered incentives to those who would establish homesteads in the unsettled lands of South Africa, B. The Zulu created attractive trade ports along the Indian Ocean,  C. The Berlin Conference clarified boundaries, thus making it logistically sound for Europeans to move to the African colonies, D. A diamond rush ensued following the discovery of diamonds on Zulu lands",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. A diamond rush ensued following the discovery of diamonds on Zulu lands",
+      "D.A diamond rush ensued following the discovery of diamonds on Zulu lands",
+      "A diamond rush ensued following the discovery of diamonds on Zulu lands"
+    ]
+  },
+
+  {
+    "category": "MMLU history - Prehistory",
+    "difficulty level": "No level",
+    "question": "Unlike most other early civilizations, Minoan culture shows little evidence of... Choose the correct answer: A. trade, B. warfare, C. the development of a common religion, D. conspicuous consumption by elites",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. conspicuous consumption by elites",
+      "D.conspicuous consumption by elites",
+      "conspicuous consumption by elites"
+    ]
+  },
+  {
+    "category": "MMLU history - Prehistory",
+    "difficulty level": "No level",
+    "question": "Which of the following is used to remove the soil enclosing site materials? Choose the correct answer: A. brushes, B. trowels, C. dental picks, D. all of the above",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. all of the above",
+      "D.all of the above",
+      "all of the above"
+    ]
+  },
+  {
+    "category": "MMLU history - Prehistory",
+    "difficulty level": "No level",
+    "question": "In rare cases, the residue of blood on ancient stone tools can... Choose the correct answer: A. prevent archaeologists from doing their research, since only forensic anthropologists can study bloody tools, B. be used to identify the species of animals killed and likely eaten, C. be used to predict the types of weapons that were not used for hunting, D. none of the above; blood does not preserve and has never been identified on stone tools",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. be used to identify the species of animals killed and likely eaten",
+      "B.be used to identify the species of animals killed and likely eaten",
+      "be used to identify the species of animals killed and likely eaten"
+    ]
+  },
+  {
+    "category": "MMLU history - Prehistory",
+    "difficulty level": "No level",
+    "question": "What distinguishes the trade patterns of the Mesolithic from those of the Upper Paleolithic? Choose the correct answer: A. in the Mesolithic, goods traveled farther and more goods were exchanged, B. in the Mesolithic, goods traveled farther but fewer goods were exchanged, C. in the Mesolithic, goods traveled less far but more goods were exchanged, D. in the Mesolithic, goods traveled less far and fewer goods were exchanged",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. in the Mesolithic, goods traveled less far but more goods were exchanged",
+      "C.in the Mesolithic, goods traveled less far but more goods were exchanged",
+      "in the Mesolithic, goods traveled less far but more goods were exchanged"
+    ]
+  },
+  {
+    "category": "MMLU history - Prehistory",
+    "difficulty level": "No level",
+    "question": "What Mesopotamian institution was set apart and had powers before the advent of social complexity? Choose the correct answer: A. the military, B. the state, C. the temple, D. the hunting association",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. the temple",
+      "C.the temple",
+      "the temple"
+    ]
+  }
+]
