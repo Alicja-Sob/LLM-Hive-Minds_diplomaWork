@@ -2,3 +2,5 @@ requests
 asyncio
 json
 aiohttp
+psutil
+nvidia-mi-py

@@ -1,6 +1,7 @@
 import json
 import asyncio
 from datetime import datetime
+from pathlib import Path
 
 from Pure.multiAgent_version.Agent_with_history import Agent, check_ollama_model, quit_ollama
 from prompts import *
@@ -32,6 +33,9 @@ async def process_question_bank(input_file: str, output_file: str, metrics_file:
     stop_metrics_event = asyncio.Event()
     logger_task = asyncio.create_task(metrics_logger(1.0, metrics_data, stop_metrics_event))
 
+    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+    Path(metrics_file).parent.mkdir(parents=True, exist_ok=True)
+
     try:
         agent_researcher = Agent(model=MODEL, role=ROLE_RESEARCHER)
         agent_evaluator = Agent(model=MODEL, role=ROLE_EVALUATOR)
@@ -49,7 +53,6 @@ async def process_question_bank(input_file: str, output_file: str, metrics_file:
             question_text = q.get('question')
 
 
-
             print(f"Calculating question:  {idx + 1}/{len(questions)} ---")
 
             try:
@@ -65,7 +68,7 @@ async def process_question_bank(input_file: str, output_file: str, metrics_file:
                     "question": question_text,
                     "generated_answer": answer,
                     "is_correct": is_correct,
-                    "expected_answers": [q.get("correct_answer")] + q.get("acceptable_answers", []),
+                    "expected_answers": q.get("acceptable_answers", []), # acceptable answers contain correct answer in them
                     "timestamp": datetime.now().isoformat()
                 })
             except Exception as e:
@@ -89,7 +92,11 @@ async def process_question_bank(input_file: str, output_file: str, metrics_file:
 
 
 if __name__ == "__main__":
-    input_bank = 'Mathematics/MATH_abridged.json'
-    output_results = 'solved_results.json'
-    output_metrics = 'system_metrics.json'
-    asyncio.run(process_question_bank(input_bank, output_results,output_metrics))
+    BASE_DIR = Path(__file__).resolve().parent
+
+    input_bank = BASE_DIR.parent / "questions" / "Mathematics" / "AQUARAT_abridged.json"
+
+    output_results = BASE_DIR / "Results" / "solved_results_AQUARAT_multiagent.json"
+    output_metrics = BASE_DIR / "Results" / "system_metrics_AQUARAT_multiagent.json"
+
+    asyncio.run(process_question_bank(str(input_bank),str(output_results),str(output_metrics)))
