@@ -38,8 +38,6 @@ async def run_worker_autonomous(worker_id: int, agent: Agent, start_input: str, 
             response = await agent.ollama_chat(temperature=0.1, max_tokens=max_tokens)
             agent.append_assistant_message(response)
 
-
-
             try:
                 data = json.loads(response)
                 my_answer = data.get("final_answer", "#error")
@@ -98,8 +96,8 @@ async def handle_research(agent: Agent, user_input, temperature: float, max_toke
     try:
         return json.dumps(json.loads(raw_insight), indent=2)
     except json.decoder.JSONDecodeError:
-        raise RuntimeError("Research agent failed to produce valid JSON")
-
+        # raise RuntimeError("Research agent failed to produce valid JSON")
+        return "#invalid_format"
 
 async def run_worker_initial(agent: Agent, start_input: str, max_tokens: int):
     agent.append_user_message(start_input)
