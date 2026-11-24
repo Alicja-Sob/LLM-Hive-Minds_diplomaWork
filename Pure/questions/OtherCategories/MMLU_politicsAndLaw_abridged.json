@@ -1,0 +1,306 @@
+[
+  {
+    "category": "MMLU politics - High School Government And Politics",
+    "difficulty level": "High School Level",
+    "question": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause? Choose the correct answer: A. Freedom of speech is protected except in certain situations, such as yelling \\\"fire\\\" in a crowded theater, B. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked, C. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment, D. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed",
+      "D.State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed",
+      "State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed"
+    ]
+  },
+  {
+    "category": "MMLU politics - High School Government And Politics",
+    "difficulty level": "High School Level",
+    "question": "Voters in which of the following categories would be LEAST likely to vote? Choose the correct answer: A. Blue-collar workers who belong to a union, B. Professionals, C. Voters who are active in their political parties, D. Voters aged 18-29",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Voters aged 18-29",
+      "D.Voters aged 18-29",
+      "Voters aged 18-29"
+    ]
+  },
+  {
+    "category": "MMLU politics - High School Government And Politics",
+    "difficulty level": "High School Level",
+    "question": "All of the following can be considered true about the impact of a higher level of education on voting habits EXCEPT... Choose the correct answer: A. voters are more likely to support government-enforced affirmative action programs, B. voters are more likely to support environmental protection efforts, C. voters are more likely to support public prayer in schools, D. voters are less likely to support restrictions on abortion rights",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. voters are more likely to support public prayer in schools",
+      "C.voters are more likely to support public prayer in schools",
+      "voters are more likely to support public prayer in schools"
+    ]
+  },
+  {
+    "category": "MMLU politics - High School Government And Politics",
+    "difficulty level": "High School Level",
+    "question": "Interest groups are barred from taking part in which of the following activities? Choose the correct answer: A. Sending lawmakers to educational seminars, B. Giving tangible gifts to lawmakers, C. Providing research to government officials, D. Staging protests and boycotts",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Giving tangible gifts to lawmakers",
+      "B.Giving tangible gifts to lawmakers",
+      "Giving tangible gifts to lawmakers"
+    ]
+  },
+  {
+    "category": "MMLU politics - High School Government And Politics",
+    "difficulty level": "High School Level",
+    "question": "Why do political scientists identify the presidential elections of Franklin Roosevelt in 1932 and Richard Nixon in 1968 as well as the midterm election of 1994 as \"critical elections\"? Choose the correct answer: A. The issues at stake in those elections were more important than in most elections, B. Those elections saw major shifts in party alignment that would last for decades, C. Minority voters played a key role in deciding the winners of those elections, D. Those elections took place during wartime",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Those elections saw major shifts in party alignment that would last for decades",
+      "B.Those elections saw major shifts in party alignment that would last for decades",
+      "Those elections saw major shifts in party alignment that would last for decades"
+    ]
+  },
+
+  {
+    "category": "MMLU politics - International Law",
+    "difficulty level": "No level",
+    "question": "Which State ordinarily exercises jurisdiction in respect of crimes committed on board vessels? Choose the correct answer: A. The coastal State, B. The flag State, C. All States enjoy such jurisdiction, D. The International Tribunal for the Law of the Sea\n",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. The flag State",
+      "B.The flag State",
+      "The flag State"
+    ]
+  },
+  {
+    "category": "MMLU politics - International Law",
+    "difficulty level": "No level",
+    "question": "What is the ordinary geographical scope of jurisdiction? Choose the correct answer: A. Jurisdiction is ordinarily extra-territorial, B. Jurisdiction is ordinarily on the high seas, C. Jurisdiction is ordinarily territorial, D. Jurisdiction is determined by the location of the offender.",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. Jurisdiction is ordinarily territorial",
+      "C.Jurisdiction is ordinarily territorial",
+      "Jurisdiction is ordinarily territorial"
+    ]
+  },
+  {
+    "category": "MMLU politics - International Law",
+    "difficulty level": "No level",
+    "question": "What is an act jure imperii? Choose the correct answer: A. An act is jure imperii when undertaken by an international organisation, B. An act is jure imperii when undertaken in an official State capacity, C. All acts undertaken by State officials are acts jure imperii, D. An act is jure imperii when undertaken by a State corporation",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. An act is jure imperii when undertaken in an official State capacity",
+      "B.An act is jure imperii when undertaken in an official State capacity",
+      "An act is jure imperii when undertaken in an official State capacity"
+    ]
+  },
+  {
+    "category": "MMLU politics - International Law",
+    "difficulty level": "No level",
+    "question": "What is an 'internationally wrongful conduct'? Choose the correct answer: A. An international wrongful conduct is an action or omission which is in breach of a rule of international criminal law, B. An international wrongful conduct is every breach of an international obligation of the State, whether attributable to it or not, C. An internationally wrongful conduct consists of an action or omission attributable to the State, which constitutes a breach of an international obligation of the State, D. An internationally wrongful conduct is the conduct that cannot be excused on grounds of necessity, force majeure etc.",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "C. An internationally wrongful conduct consists of an action or omission attributable to the State, which constitutes a breach of an international obligation of the State",
+      "C.An internationally wrongful conduct consists of an action or omission attributable to the State, which constitutes a breach of an international obligation of the State",
+      "An internationally wrongful conduct consists of an action or omission attributable to the State, which constitutes a breach of an international obligation of the State"
+    ]
+  },
+  {
+    "category": "MMLU politics - International Law",
+    "difficulty level": "No level",
+    "question": "Is extra-territorial abduction a ground for refusal of otherwise lawful jurisdiction by English courts? Choose the correct answer: A. Such abduction constitutes abuse of process and leads to a stay of proceedings, B. Such abduction gives rise to the abductor's liability but does not lead to a stay of proceedings, C. The stay of proceedings under such circumstances would prevent the administration of justice in respect of international criminals, D. The courts may, but will seldom, stay proceedings in cases of extra-territorial abduction\n",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Such abduction constitutes abuse of process and leads to a stay of proceedings",
+      "A.Such abduction constitutes abuse of process and leads to a stay of proceedings",
+      "Such abduction constitutes abuse of process and leads to a stay of proceedings"
+    ]
+  },
+
+  {
+    "category": "MMLU politics - Jurisprudence",
+    "difficulty level": "No level",
+    "question": "Robert makes the following statement while negotiating the sale of his car, 'This is the sharpest car on the market.' His statement may support a claim for... Choose the correct answer: A. misrepresentation, B. fraud, C. fraud and misrepresentation, D. none of the above",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. none of the above",
+      "D.none of the above",
+      "none of the above"
+    ]
+  },
+  {
+    "category": "MMLU politics - Jurisprudence",
+    "difficulty level": "No level",
+    "question": "Which proposition below is the most powerful refutation of Bentham's felicific calculus? Choose the correct answer: A. Happiness is less important than economic prosperity, B. It is impossible to calculate all the consequences of one's acts, C. Pain and pleasure are inevitable features of life, D. Utilitarianism fails to take account of differences in social background",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. It is impossible to calculate all the consequences of one's acts",
+      "B.It is impossible to calculate all the consequences of one's acts",
+      "It is impossible to calculate all the consequences of one's acts"
+    ]
+  },
+  {
+    "category": "MMLU politics - Jurisprudence",
+    "difficulty level": "No level",
+    "question": "Why does Parfit oppose equality? Choose the correct answer: A. He argues than an unequal society is inevitable, B. He claims that by giving priority to the needs of the poor, we can increase equality, C. He asserts that we are each responsible for our poverty, D. He rejects the idea of equality altogether",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. He claims that by giving priority to the needs of the poor, we can increase equality",
+      "B.He claims that by giving priority to the needs of the poor, we can increase equality",
+      "He claims that by giving priority to the needs of the poor, we can increase equality"
+    ]
+  },
+  {
+    "category": "MMLU politics - Jurisprudence",
+    "difficulty level": "No level",
+    "question": "The philosophers of the ________ School of jurisprudence believe that the law is a set of rules developed, communicated, and enforced by the ruling party rather than a reflection of the society's morality, history, logic, or sociology. Choose the correct answer: A. Command, B. Law and Economics, C. Natural Law, D. Critical Legal Studies",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Command",
+      "A.Command",
+      "Command"
+    ]
+  },
+  {
+    "category": "MMLU politics - Jurisprudence",
+    "difficulty level": "No level",
+    "question": "Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke? Choose the correct answer: A. They adopt different attitudes towards the role of the courts in maintaining order, B. They disagree about the role of law in society, C. They have opposing views about the nature of contractual obligations, D. They differ in respect of their account of life before the social contract",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. They differ in respect of their account of life before the social contract",
+      "D.They differ in respect of their account of life before the social contract",
+      "They differ in respect of their account of life before the social contract"
+    ]
+  },
+
+  {
+    "category": "MMLU politics - Professional Law",
+    "difficulty level": "Professional Level",
+    "question": "A taxpayer was notified by the government that her individual income tax was underpaid by $1,012. 69. The taxpayer retained an attorney to represent her in contesting the assessment. During the preparation of his client's case, the attorney suggested that it might be a good idea if the taxpayer hired an accountant to organize her records and prepare a financial statement for the year in question. Following the attorney's advice, the taxpayer consulted an accountant, an old family friend, who prepared a financial statement, which the attorney referred to at trial. During the trial, the attorney representing the government called the accountant to testif' about statements that the taxpayer made to him. The accountant's proposed testimony is...\n Choose the correct answer: A. inadmissible, because it would violate the attorney-client privilege, B. inadmissible, because it would violate the taxpayer's privilege against self-incrimination, C. inadmissible as violative of the work-product rule, D. admissible as an admission",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. admissible as an admission",
+      "D.admissible as an admission",
+      "admissible as an admission"
+    ]
+  },
+  {
+    "category": "MMLU politics - Professional Law",
+    "difficulty level": "Professional Level",
+    "question": "A company owned a night club that was built on a pier extending into a major riverbed. For several months sections of the building had been wobbling noticeably, particularly during inclement weather, when the river pounded more aggressively against the structure. Several employees and customers complained but the general manager did not respond. One windy night a section of the pier collapsed into the river, killing 28 customers and employees. It was revealed that officials had on several prior occasions cited the club for violating applicable safety regulations. The police arrested the general manager and charged him with involuntary manslaughter. He defended on the basis that his omissions to act were legally insufficient to establish manslaughter. What will the court decide? Choose the correct answer: A. This was not manslaughter because the omission to respond to safety citations is not enough to establish the high degree of criminal negligence that is required, B. The failure to act is much less culpable than active recklessness, and therefore there was insufficient evidence to charge manslaughter, C. A corporate employee cannot be prosecuted for the crime of manslaughter with respect to the performance or nonperformance of his duties on behalf of the corporation, D. The charge of involuntary manslaughter is legally sufficient because the manager's omissions were reckless and unlawful under the circumstances",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. The charge of involuntary manslaughter is legally sufficient because the manager's omissions were reckless and unlawful under the circumstances",
+      "D.The charge of involuntary manslaughter is legally sufficient because the manager's omissions were reckless and unlawful under the circumstances",
+      "The charge of involuntary manslaughter is legally sufficient because the manager's omissions were reckless and unlawful under the circumstances"
+    ]
+  },
+  {
+    "category": "MMLU politics - Professional Law",
+    "difficulty level": "Professional Level",
+    "question": "A wealthy retiree had amassed a fortune after selling his pharmaceutical company. The retiree and his wife lived in an exquisitely decorated penthouse apartment overlooking a park. One night, the retiree and his wife were returning home from dinner when they were accosted by a man outside their apartment building. The man brandished a gun and told the retiree and his wife to take him to their apartment. Upon entering the apartment, the man blindfolded the retiree and his wife and tied them up with duct tape to chairs in the living room. The man then stole the retiree's wallet and assorted jewelry from the bedroom. After the man exited the apartment, the retiree and his wife tried desperately to free themselves from their constraints. As the retiree was struggling, he suffered a heart attack and died. The man should be found guilty of... Choose the correct answer: A. burglary, B. robbery and burglary, C. robbery and murder, D. burglary, robbery, and murder",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. burglary, robbery, and murder",
+      "D.burglary, robbery, and murder",
+      "burglary, robbery, and murder"
+    ]
+  },
+  {
+    "category": "MMLU politics - Professional Law",
+    "difficulty level": "Professional Level",
+    "question": "An appliance store was using part of a public alley to unload its trucks. There were no warning signs keeping pedestrians out or warning of unloading trucks. A pedestrian walked through the general vicinity but he avoided the unloading area. One of the workers pulled the wrong lever and a load of commercial refrigerators crashed into the street, causing a rumbling tremor in the road. The tremor caused a heavy box to fall off of a parked truck that was about 30 yards away from the loading dock. It fell on the pedestrian, causing serious injury. The pedestrian sued the appliance store for negligence, and the store defended on the basis that it could not foresee such an accident and that the tremor and the box that fell were superseding acts. Will the pedestrian likely survive the store's motion to dismiss pedestrian's lawsuit for damages. Choose the correct answer: A. No, the plaintiff clearly assumed the risk by entering a dangerous loading/unloading area, B. No, because the plaintiff in effect became a trespasser when he walked into a dangerous loading/unloading area, C. Yes, because the plaintiff pedestrian had a right to be where he was and there were no signs telling him otherwise, D. Yes, because the chain of causation was generally foreseeable in that it was a logical consequence of a truckload of appliances falling violently onto the road\n",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Yes, because the chain of causation was generally foreseeable in that it was a logical consequence of a truckload of appliances falling violently onto the road",
+      "D.Yes, because the chain of causation was generally foreseeable in that it was a logical consequence of a truckload of appliances falling violently onto the road",
+      "Yes, because the chain of causation was generally foreseeable in that it was a logical consequence of a truckload of appliances falling violently onto the road"
+    ]
+  },
+  {
+    "category": "MMLU politics - Professional Law",
+    "difficulty level": "Professional Level",
+    "question": "A farmer raked up some leaves on his property, put them into a metal barrel, and set the leaves on fire. The farmer then went off to his barn to do some other work. A few minutes later, a wind gust blew some burning leaves onto a neighbor's property, causing a small fire amid some brush. If the neighbor asserts a claim against the farmer, the neighbor will most likely... Choose the correct answer: A. recover, because the farmer is strictly liable for the spread of the fire, B. recover, because the farmer was negligent in leaving the fire unattended, C. recover, because the farmer created a public nuisance in failing to contro' the fire, D. not recover, because the farmer is not liable for an unforeseeable act of God",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. recover, because the farmer was negligent in leaving the fire unattended",
+      "B.recover, because the farmer was negligent in leaving the fire unattended",
+      "recover, because the farmer was negligent in leaving the fire unattended"
+    ]
+  },
+
+  {
+    "category": "MMLU politics - US Foreign Policy",
+    "difficulty level": "No level",
+    "question": "What is the structure of the United Nations Security Council? Choose the correct answer: A. 5 permanent members with veto power, 10 rotating members with no veto power, B. 5 permanent members and 10 rotating members, all with veto power, C. 10 permanent members with veto power, and 5 rotating members without veto power, D. 15 permanent members with veto power",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. 5 permanent members with veto power, 10 rotating members with no veto power",
+      "A.5 permanent members with veto power, 10 rotating members with no veto power",
+      "5 permanent members with veto power, 10 rotating members with no veto power"
+    ]
+  },
+  {
+    "category": "MMLU politics - US Foreign Policy",
+    "difficulty level": "No level",
+    "question": "International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market? Choose the correct answer: A. Irrationality on the part of the leadership, B. Costs of free trade are concentrated, but benefits are dispersed, C. Regime type, D. International conflict prevents trade",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. Costs of free trade are concentrated, but benefits are dispersed",
+      "B.Costs of free trade are concentrated, but benefits are dispersed",
+      "Costs of free trade are concentrated, but benefits are dispersed"
+    ]
+  },
+  {
+    "category": "MMLU politics - US Foreign Policy",
+    "difficulty level": "No level",
+    "question": "How many major powers are there in a multipolar system? Choose the correct answer: A. 0, B. 1, C. 2, D. 3 or more",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. 3 or more",
+      "D.3 or more",
+      "3 or more"
+    ]
+  },
+  {
+    "category": "MMLU politics - US Foreign Policy",
+    "difficulty level": "No level",
+    "question": "In what sense might exceptionalism link isolationist and internationalist strategies? Choose the correct answer: A. Both encourage world government, B. Both focus on the decline of the American power, C. It doesn't - the two are fundamentally opposed, D. Both can be viewed as different means of achieving the same liberal ends",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Both can be viewed as different means of achieving the same liberal ends",
+      "D.Both can be viewed as different means of achieving the same liberal ends",
+      "Both can be viewed as different means of achieving the same liberal ends"
+    ]
+  },
+  {
+    "category": "MMLU politics - US Foreign Policy",
+    "difficulty level": "No level",
+    "question": "Which of the following is NOT a good predictor of which states will get nuclear weapons? Choose the correct answer: A. Receipt of sensitive nuclear assistance, B. Wealth/GDP, C. Rivalry with a nuclear state, D. Regime type\n",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Regime type",
+      "D.Regime type",
+      "Regime type"
+    ]
+  }
+]

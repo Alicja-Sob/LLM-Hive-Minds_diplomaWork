@@ -1,0 +1,245 @@
+[
+  {
+    "category": "MMLU Morality and Philosophy - Business Ethics",
+    "difficulty level": "No level",
+    "question": "_______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______. Choose the correct answer: A. Cryptocurrencies, Expensive, Secure, Financial Crime, B. Traditional currency, Cheap, Unsecure, Charitable giving, C. Cryptocurrencies, Cheap, Secure, Financial crime, D. Traditional currency, Expensive, Unsecure, Charitable giving",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C",
+      "Cryptocurrencies, Cheap, Secure, Financial crime",
+      "C. Cryptocurrencies, Cheap, Secure, Financial crime",
+      "C.Cryptocurrencies, Cheap, Secure, Financial crime"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Business Ethics",
+    "difficulty level": "No level",
+    "question": "The Right to _______ has been a long-standing ethical concern for employees which today are addressed in most developed countries through a dense network of occupational health, safety and environmental regulations companies must abide by. Choose the correct answer: A. Work-life balance, B. Healthy and safe working conditions, C. Employee privacy, D. Free Speech",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B. Healthy and safe working conditions",
+      "B",
+      "B.Healthy and safe working conditions",
+      "Healthy and safe working conditions"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Business Ethics",
+    "difficulty level": "No level",
+    "question": "Demand reduction. Choose the correct answer: A. 1,3,4, B. 2,3,4, C. 1,2,3, D. 1,2,4",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D. 1,2,4",
+      "D.1,2,4",
+      "D",
+      "1,2,4"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Business Ethics",
+    "difficulty level": "No level",
+    "question": "Ethical issues related to marketing communications include the fact that they are _________ and unavoidable, they create ________ needs, reinforce _________ and perpetuate _________ and ______. Choose the correct answer: A. Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes, B. Intrusive, Artificial, De-materialism, Security, Happiness, C. Intrusive, Real, Consumerism, Insecurity, Happiness, D. Intrusive, Real, De-materialism, Security, Social stereotypes",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A",
+      "A. Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes",
+      "A.Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes",
+      "Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Business Ethics",
+    "difficulty level": "No level",
+    "question": "The relationship between ethics and the law can be described as... Choose the correct answer: A. Incredibly close, in fact, in all instances what is ethical is also what is legal and vice versa, B. Not close, ethics and the law share a small amount of overlap, but fundamentally address differing questions and themes, C. Close, as there is considerable overlap between ethics and law, but the two are not equivalent, D. Not at all close, ethics and the law are virtually incompatible.",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C. Close, as there is considerable overlap between ethics and law, but the two are not equivalent",
+      "C.Close, as there is considerable overlap between ethics and law, but the two are not equivalent",
+      "Close, as there is considerable overlap between ethics and law, but the two are not equivalent",
+      "C"
+    ]
+  },
+
+  {
+    "category": "MMLU Morality and Philosophy - Moral Disputes",
+    "difficulty level": "No level",
+    "question": "According to Mill, censoring speech that is possibly true. Choose the correct answer: A. violates human dignity, B. fails a prima facie duty of honesty, C. is tantamount to asserting that you are infallible, D. is a risk worth taking of the speech is dangerous enough",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C. is tantamount to asserting that you are infallible",
+      "is tantamount to asserting that you are infallible",
+      "C.is tantamount to asserting that you are infallible",
+      "C"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Disputes",
+    "difficulty level": "No level",
+    "question": "In Gardiner's analysis, which of the following is a characteristic of the climate change problem? Choose the correct answer: A. institutional adequacy, B. dispersion of causes and effects, C. fragmentation of agency, D. all of the above",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D. all of the above",
+      "D",
+      "D.all of the above",
+      "all of the above"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Disputes",
+    "difficulty level": "No level",
+    "question": "Hourdequin argues that one flaw of consequentialist calculation is that... Choose the correct answer: A. it fails to reconcile prima facie duties, B. it can run counter to a person's being able to integrate her commitments at various levels, C. it can run counter to the idea that persons are atomistic and individually rational actors, D. it fails to recognize that possibility that the persons are best understood in relation to one another",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. it can run counter to a person's being able to integrate her commitments at various levels",
+      "B.it can run counter to a person's being able to integrate her commitments at various levels",
+      "it can run counter to a person's being able to integrate her commitments at various levels"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Disputes",
+    "difficulty level": "No level",
+    "question": "Which of the following is a problem for Kant's principle of equality and an 'eye for an eye' according to Nathanson? Choose the correct answer: A. It fails to tell us what the appropriate punishment would be for all cases of criminal action, B. It does not provide an adequate measure of moral desert, C. It requires that we punish criminals in ways that are morally unacceptable, D. all of the above",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. all of the above",
+      "D.all of the above",
+      "all of the above"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Disputes",
+    "difficulty level": "No level",
+    "question": "Dershowitz discusses the hypothetical case where the hijacked planes of 9/11 must be shot down to argue that important decisions like these... Choose the correct answer: A. often have to be made quickly and without immediate authorization, B. should be made with visibility and accountability by the highest-level officials, C. have no objective answer, D. none of the above",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B",
+      "B. should be made with visibility and accountability by the highest-level officials",
+      "B.should be made with visibility and accountability by the highest-level officials",
+      "should be made with visibility and accountability by the highest-level officials"
+    ]
+  },
+
+  {
+    "category": "MMLU Morality and Philosophy - Moral Scenarios",
+    "difficulty level": "No level",
+    "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I made sure to dispose of my banana peel since someone could trip on it. Scenario 2 | I stirred the drink before giving it to the customer. Choose the correct answer: A. Wrong, Wrong, B. Wrong, Not wrong, C. Not wrong, Wrong, D. Not wrong, Not wrong",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Not wrong, Not wrong",
+      "D.Not wrong, Not wrong",
+      "Not wrong, Not wrong"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Scenarios",
+    "difficulty level": "No level",
+    "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I let my children throw icicles at each other, since it's only water. Scenario 2 | On my evening walk, I notice a child has fallen in a shallow pond and appears to be drowning, so I wade in and pull the child out. Choose the correct answer: A. Wrong, Wrong, B. Wrong, Not wrong, C. Not wrong, Wrong, D. Not wrong, Not wrong",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B. Wrong, Not wrong",
+      "B",
+      "B.Wrong, Not wrong",
+      "Wrong, Not wrong"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Scenarios",
+    "difficulty level": "No level",
+    "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | As a CIA agent, it is my obligation to undermine my country for the sake of foreign powers. Scenario 2 | I stopped at the red light. Choose the correct answer: A. Wrong, Wrong, B. Wrong, Not wrong, C. Not wrong, Wrong, D. Not wrong, Not wrong",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B. Wrong, Not wrong",
+      "B",
+      "B.Wrong, Not wrong",
+      "Wrong, Not wrong"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Scenarios",
+    "difficulty level": "No level",
+    "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I went to the video arcade to laugh at the kid with disabilities while he played pacman. Scenario 2 | I was assaulting the man during interrogation. Choose the correct answer: A. Wrong, Wrong, B. Wrong, Not wrong, C. Not wrong, Wrong, D. Not wrong, Not wrong",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A. Wrong, Wrong",
+      "A",
+      "A.Wrong, Wrong",
+      "Wrong, Wrong"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Moral Scenarios",
+    "difficulty level": "No level",
+    "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I know what Carla's dealing with at home with her father, so I'm going to overlook her bad attitude. Scenario 2 | I decided to start a fire in the furnace. Choose the correct answer: A. Wrong, Wrong, B. Wrong, Not wrong, C. Not wrong, Wrong, D. Not wrong, Not wrong",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D",
+      "D. Not wrong, Not wrong",
+      "D.Not wrong, Not wrong",
+      "Not wrong, Not wrong"
+    ]
+  },
+
+  {
+    "category": "MMLU Morality and Philosophy - Philosophy",
+    "difficulty level": "No level",
+    "question": "One of the aims of philosophy is to think critically about whether there are good reasons for adopting our beliefs.  Reasons are considered 'good reasons' if they are consistent with everyday experience and: Choose the correct answer: A. are part of a set of religious, moral, or political beliefs that an individual feels deeply about, B. are considered good by at least one culture, sub-culture, or individual, C. cannot be interpreted in different ways by different people or cultures, D. take into account objections, are acceptable to impartial third parties, and avoid undesirable consequences",
+    "correct_answer": "D",
+    "acceptable_answers": [
+      "D. take into account objections, are acceptable to impartial third parties, and avoid undesirable consequences",
+      "D.take into account objections, are acceptable to impartial third parties, and avoid undesirable consequences",
+      "take into account objections, are acceptable to impartial third parties, and avoid undesirable consequences",
+      "D"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Philosophy",
+    "difficulty level": "No level",
+    "question": "The existence of a form of mental illness known as multiple personality disorder seems to suggest that _____. Choose the correct answer: A. the existence of the mind is a delusion, B. the mind is divisible, C. the mind is indivisible, D. mental illness is incurable",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B. the mind is divisible",
+      "B",
+      "B.the mind is divisible",
+      "the mind is divisible"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Philosophy",
+    "difficulty level": "No level",
+    "question": "Descartes reasons that the very fact that he is thinking shows that _____. Choose the correct answer: A. he does not exist, B. he is not being deceived, C. he exists, D. he is dreaming",
+    "correct_answer": "C",
+    "acceptable_answers": [
+      "C. he exists",
+      "C.he exists",
+      "he exists",
+      "C"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Philosophy",
+    "difficulty level": "No level",
+    "question": "Wolf defines a “moral saint” as a person who: Choose the correct answer: A. is as morally worthy as possible, B. is as religiously observant as possible, C. dies for the cause of morality, D. all of the above",
+    "correct_answer": "A",
+    "acceptable_answers": [
+      "A. is as morally worthy as possible",
+      "A.is as morally worthy as possible",
+      "is as morally worthy as possible",
+      "A"
+    ]
+  },
+  {
+    "category": "MMLU Morality and Philosophy - Philosophy",
+    "difficulty level": "No level",
+    "question": "Which of the following would Gauthier not accept? Choose the correct answer: A. Morality faces a foundational crisis, B. Deliberative justification is incomplete, C. In some situations, everyone will do better if they mutually agree to constrain their pursuit of self-interest, D. A rational agent is one who acts to achieve the maximal fulfillment of her preferences",
+    "correct_answer": "B",
+    "acceptable_answers": [
+      "B. Deliberative justification is incomplete",
+      "B.Deliberative justification is incomplete",
+      "Deliberative justification is incomplete",
+      "B"
+    ]
+  }
+]
